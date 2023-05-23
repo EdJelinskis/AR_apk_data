@@ -1,0 +1,31 @@
+[
+  {
+    "name": "mobile_navigation",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "agrorob"
+        ],
+        "host": "startFragment",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mFilePath": "D:\\Android_Studio\\agro-robot\\app\\src\\main\\res\\navigation\\mobile_navigation.xml",
+            "mDescription": "mobile_navigation"
+          },
+          "mSourcePosition": {
+            "mStartLine": 22,
+            "mStartColumn": 8,
+            "mStartOffset": 953,
+            "mEndLine": 24,
+            "mEndColumn": 48,
+            "mEndOffset": 1075
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
+  }
+]

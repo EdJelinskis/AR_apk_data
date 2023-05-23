@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/activity_robo_main.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/activity_robo_main.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/fragment_settings.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/popup_layout.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/popup_layout.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/activity_bluetooth_devices.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/activity_bluetooth_devices.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/activity_splash.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/device_item.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/device_item.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-mergeDebugResources-48:/layout/fragment_start.xml",
+        "source": "com.example.agrorob.app-main-51:/layout/fragment_start.xml"
+    }
+]

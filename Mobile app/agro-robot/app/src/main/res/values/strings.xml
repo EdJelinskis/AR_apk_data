@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Agrorob</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Settings</string>
+    <string name="title_notifications">Start</string>
+
+    <string name="title_activity_splash">Splash Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">Turn off</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="paired_devices">Connect to device</string>
+    <string name="title_activity_robo_main">RoboMain</string>
+
+    <string name="bluetooth_not_available">Bluetooth is not supported on this device.</string>
+    <string name="bluetooth_available">Bluetooth is available on this device.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

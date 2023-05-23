@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_activity_bluetooth_devices.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\activity_bluetooth_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_app_orange_s.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_app_orange_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_fragment_start.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xxhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xxhdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_popup_layout.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_activity_robo_main.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\activity_robo_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-anydpi_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-anydpi\\ic_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-mdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-mdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-hdpi_ic_bluetooth_off.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-hdpi\\ic_bluetooth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xhdpi_ic_start_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xhdpi\\ic_start_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-anydpi_ic_bluetooth_on.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-anydpi\\ic_bluetooth_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-anydpi_ic_stop_button.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-anydpi\\ic_stop_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xhdpi_ic_bluetooth_on.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xhdpi\\ic_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-anydpi_ic_start_button.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-anydpi\\ic_start_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_app_orange.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_app_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-hdpi_ic_stop_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-hdpi\\ic_stop_button.png"
+    },
+    {
+        "merged": "com.example.agrorob.app-merged_res-49:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.agrorob.app-main-51:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xxhdpi_ic_start_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xxhdpi\\ic_start_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_device_item.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\device_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.agrorob.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.agrorob.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-mdpi_ic_stop_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-mdpi\\ic_stop_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-hdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-hdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xhdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-v24_ic_app_back.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-v24\\ic_app_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-hdpi_ic_bluetooth_on.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-hdpi\\ic_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xhdpi_ic_stop_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xhdpi\\ic_stop_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xxhdpi_ic_stop_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xxhdpi\\ic_stop_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-mdpi_ic_bluetooth_off.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-mdpi\\ic_bluetooth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-hdpi_ic_start_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-hdpi\\ic_start_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-mdpi_ic_bluetooth_on.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-mdpi\\ic_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-mdpi_ic_start_button.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-mdpi\\ic_start_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-anydpi_ic_bluetooth_off.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-anydpi\\ic_bluetooth_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xxhdpi_ic_bluetooth_off.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xxhdpi\\ic_bluetooth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xxhdpi_ic_bluetooth_on.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xxhdpi\\ic_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-merged_res-49:\\drawable-xhdpi_ic_bluetooth_off.png.flat",
+        "source": "C:\\Users\\Aleksejs\\.gradle\\daemon\\7.5\\com.example.agrorob.app-main-51:\\drawable-xhdpi\\ic_bluetooth_off.png"
+    }
+]

@@ -1,0 +1,7 @@
+com.example.agrorob.test.app-core-1.5.0-0 C:\Users\Aleksejs\.gradle\caches\transforms-3\5d7f43ff0a8e9e9242869fb59137ef63\transformed\core-1.5.0\res
+com.example.agrorob.test.app-annotation-experimental-1.3.0-1 C:\Users\Aleksejs\.gradle\caches\transforms-3\e01dadcda5a85d2a310e14a5fa2cc2f5\transformed\annotation-experimental-1.3.0\res
+com.example.agrorob.test.app-androidTest-2 D:\Android_Studio\agro-robot\app\build\generated\res\resValues\androidTest\debug
+com.example.agrorob.test.app-androidTest-3 D:\Android_Studio\agro-robot\app\build\generated\res\rs\androidTest\debug
+com.example.agrorob.test.app-mergeDebugAndroidTestResources-4 D:\Android_Studio\agro-robot\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.agrorob.test.app-mergeDebugAndroidTestResources-5 D:\Android_Studio\agro-robot\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.agrorob.test.app-merged_res-6 D:\Android_Studio\agro-robot\app\build\intermediates\merged_res\debugAndroidTest
