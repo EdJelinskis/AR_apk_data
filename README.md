@@ -35,4 +35,6 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 14. pip install Kivy==2.2.0rc1  
     -> pip install Kivy==2.1.0    
     -> pip install --upgrade kivy    
-15. pip install PyAutoGUI    
+15. pip install PyAutoGUI
+16. -> echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules  
+    -> sudo udevadm control --reload-rules && sudo udevadm trigger  
