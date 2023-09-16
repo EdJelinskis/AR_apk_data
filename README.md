@@ -26,15 +26,13 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 
 8. pip install --upgrade pip setuptools wheel
 9. pip install opencv-contrib-python==4.5.3.56
-10. pip install opencv-python==4.5.3.56
-11. pip install opencv-python==4.7.0.68
-12. pip install opencv-python==4.6.0.66
+10. pip install opencv-python==4.6.0.66
 
-13. pip install depthai==2.21.2.0    
-14. sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
-15. pip install depthai-sdk==1.9.4.1    
+11. pip install depthai==2.21.2.0    
+12. sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
+13. pip install depthai-sdk==1.9.4.1    
 
-16. pip install Kivy==2.2.0rc1
+14. pip install Kivy==2.2.0rc1  
     -> pip install Kivy==2.1.0    
     -> pip install --upgrade kivy    
-17. pip install PyAutoGUI    
+15. pip install PyAutoGUI    
