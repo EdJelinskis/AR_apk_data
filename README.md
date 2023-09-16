@@ -13,6 +13,9 @@ https://code.visualstudio.com/download
   -> https://linuxhint.com/update-python-raspberry-pi/  
 --------------------------------------------------------------------
 pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
+*sudo apt-get install libopencv-dev python3-opencv
+*sudo apt-get install build-essential cmake pkg-config libjpeg-dev libtiff5-dev libjasper-dev libpng-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev libfontconfig1-dev libcairo2-dev libgdk-pixbuf2.0-dev libpango1.0-dev libgtk2.0-dev libgtk-3-dev libatlas-base-dev gfortran libhdf5-dev libhdf5-serial-dev libhdf5-103 python3-pyqt5 python3-dev -y
+
 pip install pip==23.2
 pip install numpy --upgrade --ignore-installed
 pip install numpy==1.25.2
@@ -21,8 +24,11 @@ pip install pandas==2.0.2
 sudo apt-get install libsdl2-image-2.0-0
 *pip install --upgrade pip setuptools wheel
 sudo apt-get install -y libhdf5-dev libhdf5-serial-dev python3-pyqt5 libatlas-base-dev libjasper-dev
-pip install opencv-contrib-python==4.5.3.56
-pip install opencv-python-headless==4.5.3.56    
+1*pip install opencv-contrib-python==4.8.0.74
+2*pip install opencv-contrib-python==4.5.3.56
+
+1* pip install opencv-python-headless==4.7.0.72
+2* pip install opencv-python-headless==4.5.3.56    
 
 
 sudo pip install opencv-python==4.7.0.68
