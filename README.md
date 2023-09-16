@@ -37,4 +37,12 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
     -> pip install --upgrade kivy    
 15. pip install PyAutoGUI
 16. -> echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules  
-    -> sudo udevadm control --reload-rules && sudo udevadm trigger  
+    -> sudo udevadm control --reload-rules && sudo udevadm trigger
+    
+*SCREEN*
+sudo apt-get install xinput-calibrator 
+sudo apt-get install update
+sudo apt-get install matchbox-keyboard
+sudo nano /usr/bin/toggle-matchbox-keyboard.sh
+Button { id=/usr/local/share/applications/toggle-matchbox-keyboard.desktop }
+
