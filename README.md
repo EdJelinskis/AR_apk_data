@@ -10,7 +10,9 @@ https://code.visualstudio.com/download
   -> sudo apt-get install python-opencv  
   -> python3 install_requirements.py  
   -> pip install --upgrade pip==19  
-  -> https://linuxhint.com/update-python-raspberry-pi/  
+  -> https://linuxhint.com/update-python-raspberry-pi/
+
+   https://raspberrypi-guide.github.io/programming/install-opencv
 --------------------------------------------------------------------
 pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 *sudo apt-get install libopencv-dev python3-opencv
@@ -27,8 +29,10 @@ sudo apt-get install -y libhdf5-dev libhdf5-serial-dev python3-pyqt5 libatlas-ba
 1*pip install opencv-contrib-python==4.8.0.74
 2*pip install opencv-contrib-python==4.5.3.56
 
+
 1* pip install opencv-python-headless==4.7.0.72
 2* pip install opencv-python-headless==4.5.3.56    
+    pip install opencv-python==4.5.3.56
 
 
 sudo pip install opencv-python==4.7.0.68
@@ -38,6 +42,7 @@ pip install depthai==2.21.2.0
 sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
 pip install depthai-sdk==1.9.4.1    
 
+pip install Kivy==2.2.0rc1
 pip install Kivy==2.1.0    
 pip install --upgrade kivy    
 pip install PyAutoGUI    
