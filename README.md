@@ -27,16 +27,17 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 8. pip install --upgrade pip setuptools wheel
 9. pip install opencv-contrib-python==4.5.3.56
 10. pip install opencv-python==4.6.0.66
+11. pip install opencv-python-headless==4.7.0.72
 
-11. pip install depthai==2.21.2.0    
-12. sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
-13. pip install depthai-sdk==1.9.4.1    
+12. pip install depthai==2.21.2.0    
+13. sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
+14. pip install depthai-sdk==1.9.4.1    
 
-14. pip install Kivy==2.2.0rc1  
+15. pip install Kivy==2.2.0rc1  
     -> pip install Kivy==2.1.0    
     -> pip install --upgrade kivy    
-15. pip install PyAutoGUI
-16. -> echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules  
+16. pip install PyAutoGUI
+17. -> echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules  
     -> sudo udevadm control --reload-rules && sudo udevadm trigger
     
 *SCREEN*
