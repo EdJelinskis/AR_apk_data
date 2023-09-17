@@ -46,3 +46,5 @@ sudo apt-get install matchbox-keyboard
 sudo nano /usr/bin/toggle-matchbox-keyboard.sh
 Button { id=/usr/local/share/applications/toggle-matchbox-keyboard.desktop }
 
+pip install tkintertable==1.3.3
+
