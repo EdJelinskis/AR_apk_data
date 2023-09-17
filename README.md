@@ -47,4 +47,6 @@ sudo nano /usr/bin/toggle-matchbox-keyboard.sh
 Button { id=/usr/local/share/applications/toggle-matchbox-keyboard.desktop }
 
 pip install tkintertable==1.3.3
+sudo apt-get install wmctrl
+sudo apt-get install xdotool
 
