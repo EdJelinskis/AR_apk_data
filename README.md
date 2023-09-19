@@ -27,7 +27,7 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 8. pip install --upgrade pip setuptools wheel
 9. pip install opencv-contrib-python==4.5.3.56
 10. pip install opencv-python==4.6.0.66
-11. pip install opencv-python-headless==4.7.0.72 -> pip install opencv-python-headless==4.5.3.56(old version rasp)
+11. pip install opencv-python-headless==4.7.0.72 -> pip install opencv-python-headless==4.5.3.56(old version rasp)( then pip uninstall opencv-python-headless==4.5.4.58 -y)
 
 12. pip install depthai==2.21.2.0    
 13. sudo apt-get install cmake libusb-1.0-0-dev libopenjp2-7 libopenjp2-7-dev    
