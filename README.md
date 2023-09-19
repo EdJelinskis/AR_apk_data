@@ -39,6 +39,8 @@ pythone 3.11 https://aruljohn.com/blog/python-raspberrypi/
 16. pip install PyAutoGUI
 17. -> echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="03e7", MODE="0666"' | sudo tee /etc/udev/rules.d/80-movidius.rules  
     -> sudo udevadm control --reload-rules && sudo udevadm trigger
+18. sudo apt-get install libx11-dev
+19. 
     
 *SCREEN*
 sudo apt-get install xinput-calibrator 
